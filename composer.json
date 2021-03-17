@@ -4,7 +4,7 @@
 	"description": "Adds basic configuration for site packages to your TYPO3 project.",
 	"license": ["MIT"],
 	"require": {
-		"typo3/cms-core": "^9.5 || ^10.0"
+		"typo3/cms-core": "^10 || ^11"
 	},
 	"replace": {
 		"rte_configuration_basic": "self.version"

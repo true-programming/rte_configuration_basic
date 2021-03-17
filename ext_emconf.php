@@ -12,7 +12,7 @@ $EM_CONF['rte_configuration_basic'] = [
     'version' => '1.0.0',
     'constraints' => [
         'depends' => [
-            'typo3' => '<=10.9.99',
+            'typo3' => '10.4.0-11.99.99',
         ],
         'conflicts' => [],
         'suggests' => [],
