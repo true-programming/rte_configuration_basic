@@ -6,7 +6,9 @@
 	"require": {
 		"typo3/cms-core": "^10 || ^11"
 	},
-	"replace": {
-		"rte_configuration_basic": "self.version"
+	"extra": {
+		"typo3/cms": {
+			"extension-key": "rte_configuration_basic"
+		}
 	}
 }
