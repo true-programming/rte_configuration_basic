@@ -1,5 +1,5 @@
 {
-	"name": "mp/rte-configuration-basic",
+	"name": "trueprogramming/rte-configuration-basic",
 	"type": "typo3-cms-extension",
 	"description": "Adds basic configuration for site packages to your TYPO3 project.",
 	"license": ["MIT"],
