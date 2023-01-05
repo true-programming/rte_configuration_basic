@@ -2,7 +2,7 @@
 	"name": "trueprogramming/rte-configuration-basic",
 	"type": "typo3-cms-extension",
 	"description": "Adds basic configuration for site packages to your TYPO3 project.",
-	"license": ["MIT"],
+	"license": ["GPL-2.0-or-later"],
 	"require": {
 		"typo3/cms-core": "^10 || ^11"
 	},
